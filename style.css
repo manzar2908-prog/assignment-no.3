@@ -1,0 +1,82 @@
+
+
+
+.container{
+    width: 1250px;
+    margin:  auto;
+    height: 560px;
+    justify-content: space-between;
+    display: inline-flex;
+box-sizing: border-box;
+background-color:purple;
+}
+.navbar-menu{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    list-style: none;
+   padding: 10px 10px 10px 10px;
+
+}
+
+.menu{
+justify-content: space-between;
+    display: flex;
+    width: 100px;
+    height: 25px;
+    padding: 25px 300px 10px 10px;
+    gap: 50px;
+    boder-radius: 12px;  
+    cursor:crosshair;
+    list-style: none;
+    color: purple;
+}
+.hero-para{
+    color: white;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+    position: absolute;
+    top:150px;
+    right: 0px;
+    bottom: 0px;
+    left: 30px;
+       
+}
+.last-para{
+    color: white;
+    font-size: 18px;
+    padding:0px 1px 1px 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+    font:inline;
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    bottom: 1px;
+    left: 30px;
+}
+.heading-1{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    bottom: 10px;
+    left: 52px;
+}
+.img-2{
+padding: 10px 10px 10px 10px ;
+    position: absolute;
+    top: 150px;
+    right: 50px;
+    bottom: 0px;
+    left: px;
+    justify-content: space-between;
+    display:flex;
+    border-radius: 40px;
+}
